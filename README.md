@@ -1,2 +1,4 @@
-# AllegroLibrary
-方便自己使用并存储的Allegro封装库
+## 类目列表
+- DCDC/LDO
+- BASIC（RES、CAP、DIODE）
+- MCU（STM32F103C8T6）
