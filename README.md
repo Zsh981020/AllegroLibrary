@@ -1,18 +1,23 @@
 ## SCH类目列表
 - BASIC-
-    - RES（电阻）
     - CAP（电容）
-    - CAP-POL（有极性电容）
-    - DIODE（二极管）
+      - CAP-POL（有极性电容）
+    - DIODE（通用二极管）
+      - LED（发光二极管）
+      - SBD（肖特基二极管）
+      - TVS-A（单向TVS）
+      - TVS-CA（双向TVS）
+      - ZENER（齐纳二极管/稳压二极管）
+    - MOSFET（金属氧化物半导体场效应晶体管）
+      - N-CH（N沟道MOSFET）
+      - P-CH（P沟道MOSFET）
+    - TRIODE（三极管）
+      - NPN（NPN型三极管）
+      - PNP（PNP型三极管）
     - FB（磁珠）
+    - RES（电阻）
     - FUSE（保险丝）
-    - INDUCTOR（电感器）
-    - LED（发光二极管）
-    - NMOS（N沟道MOSFET）
-    - NPN（NPN型三极管）
-    - PMOS（P沟道MOSFET）
-    - PNP（PNP型三极管）
-    - TVS（瞬态电压抑制器件）
+    - INDUCTOR（电感）
 ---
 - CONNECTOR-
     - DC-5.0（DC电源座）
