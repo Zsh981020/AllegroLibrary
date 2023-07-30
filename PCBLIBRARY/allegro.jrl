@@ -1,0 +1,28 @@
+\t (00:00:08) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Sat Jul 29 23:11:09 2023
+\t (00:00:08)         Host=DESKTOP-Q51OGLB User=XTAY Pid=9308 CPUs=16
+\t (00:00:08) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:08) 
+   (00:00:08) Loading axlcore.cxt 
+\t (00:00:09) Starting new design...
+\i (00:00:10) trapsize 116667
+\i (00:00:10) generaledit 
+\i (00:01:03) enved 
+\i (00:01:04) setwindow form.prfedit
+\i (00:01:04) FORM prfedit treelist  My_favorites 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) generaledit 
+\i (00:01:07) setwindow form.prfedit
+\i (00:01:07) FORM prfedit treelist  Paths 
+\i (00:01:09) FORM prfedit treelist  Library Paths 
+\i (00:01:19) FORM prfedit padpath  
+\i (00:01:41) fillin "C:/Users/XTAY/Desktop/Temp/AllegroLibrary/Pads"
+\i (00:01:44) FORM prfedit psmpath  
+\i (00:01:54) fillin "menu_cancel"
+\i (00:01:59) fillin "C:/Users/XTAY/Desktop/Temp/AllegroLibrary/PCBLIBRARY"
+\i (00:02:02) FORM prfedit apply  
+\i (00:02:03) FORM prfedit done  
+\i (00:02:12) setwindow pcb
+\i (00:02:12) new 
+\i (00:02:34) newdrawfillin "USB-RS485.brd" "Board"
+\t (00:02:34)     Journal end - Sat Jul 29 23:13:35 2023
